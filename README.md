@@ -6,10 +6,10 @@ A collection of hands-on Jupyter notebooks documenting my Python fundamentals pr
 
 | # | Notebook                                                             | Topics Covered                                                                                           |
 |---|----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| 1 | [`1_python_basics.ipynb`](1_basics/1_python_basics.ipynb)                   | Print statements, variable declaration, `type()`, multiple assignment, string concatenation, `.format()` |
-| 2 | [`2_python_datatypes.ipynb`](1_basics/2_python_datatypes.ipynb)             | Numeric types (int, float, complex), boolean, strings, lists, tuples, dictionaries, sets                 |
-| 3 | [`3.python_assignment.ipynb`](1_basics/3.python_assignment.ipynb)           | Variable assignment behavior, reassignment, dynamic typing                                               |
-| 4 | [`4.python_operators.ipynb`](1_basics/4.python_operators.ipynb)             | Arithmetic, operator precedence/grouping, comparison operators, logical operators                        |
+| 1 | [`1_python_basics.ipynb`](1_basics/1_basics.ipynb)                   | Print statements, variable declaration, `type()`, multiple assignment, string concatenation, `.format()` |
+| 2 | [`2_python_datatypes.ipynb`](1_basics/2_datatypes.ipynb)             | Numeric types (int, float, complex), boolean, strings, lists, tuples, dictionaries, sets                 |
+| 3 | [`3.python_assignment.ipynb`](1_basics/3_assignment.ipynb)           | Variable assignment behavior, reassignment, dynamic typing                                               |
+| 4 | [`4.python_operators.ipynb`](1_basics/4_operators.ipynb)             | Arithmetic, operator precedence/grouping, comparison operators, logical operators                        |
 | 5 | [`5.python_escapeSequences.ipynb`](./5.python_escapeSequences.ipynb) | Escape sequences, raw strings, string formatting                                                         |
 
 ## 🎯 Purpose
