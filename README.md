@@ -1,6 +1,6 @@
 # Python Self Study
  
-A collection of hands-on Jupyter notebooks documenting my Python fundamentals practice — from core syntax through data structures — as part of a broader shift from manual/automation QA toward Python-based test automation and AI-assisted engineering.
+A collection of hands-on Jupyter notebooks documenting my Python fundamentals practice.
  
 ## 📓 Notebooks
  
